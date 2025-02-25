@@ -5,12 +5,14 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 It's importance is as follows;
-Scalability- it ensures that a system can handle a wide load without affecting perfomance.
-Reliability- it ensures that the system performs well without any problem.
-Security- It provides authorization and encryption to protect user information.
-efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+
+1. Scalability- it ensures that a system can handle a wide load without affecting perfomance.
+2. Reliability- it ensures that the system performs well without any problem.
+3. Security- It provides authorization and encryption to protect user information.
+4. efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
